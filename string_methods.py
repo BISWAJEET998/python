@@ -1,0 +1,16 @@
+name="BiswAjEeT SaHoO"
+#1. len() function
+print(len("biswajeet"))
+print(len(name))
+length=len(name)
+print(length)
+# 2. lower() method
+print(name.lower())
+print("loUDu".lower())
+# 3. upper() method
+print(name.upper())
+print("loUDu".upper())
+# 4. title() method
+print(name.title())
+# 5. count() method
+print(name.count("o"))
